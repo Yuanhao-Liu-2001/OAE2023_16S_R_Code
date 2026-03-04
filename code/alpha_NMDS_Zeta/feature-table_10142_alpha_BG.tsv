@@ -1,0 +1,16 @@
+sample_id	Group	Chao1	Shannon	Pielou	Simpson
+19G	Wet_Background	663	3.324	0.54	0.8247
+23G	Wet_Background	1244	5.015	0.751	0.9842
+27G	Wet_Background	905	4.675	0.724	0.9763
+1G	Wet_Background	794	4.657	0.741	0.9734
+5G	Wet_Background	955	4.435	0.688	0.9497
+10G	Wet_Background	998	4.59	0.702	0.9727
+13G	Wet_Background	920	4.79	0.743	0.9758
+17G	Wet_Background	1351	4.864	0.723	0.976
+21G	Wet_Background	1010	4.5	0.703	0.9608
+25G	Wet_Background	869	4.391	0.691	0.9687
+30G	Wet_Background	916	4.717	0.729	0.9741
+B1	Dry_Background	224	3.774	0.706	0.9542
+B3	Dry_Background	264	3.779	0.68	0.931
+B5	Dry_Background	270	4.006	0.725	0.957
+B8	Dry_Background	346	3.948	0.695	0.9593
