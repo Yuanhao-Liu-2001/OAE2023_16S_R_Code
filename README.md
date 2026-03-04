@@ -1,4 +1,3 @@
-# OAE2023_16S_R_Code
 此项目中记录着文章“Resilience to Alkalinity Perturbations Reveals Ecosystem Stability under Ocean Alkalinity Enhancement”中绘制所有图片的代码，以及修改文章过程中使用的endnote的library与style文件
 
 1. endnote
@@ -21,9 +20,9 @@ journal_list.txt文件记录了参考文献中使用的期刊缩写
 
 3. Others
 其他可能有用的文件：
-3.1 12-count：群落组成表，包括各个分类水平的，既有百分比形式的也有ASV数形式的
-3.2 FAPROTAX_1.2.12：群落功能预测结果，也包含每种功能所对应的ASV的分表
-3.3 dna-sequences.fasta：ASV的序列文件
-3.4 feature-table.biom.no.cp.tsv：经合并预处理后的原始特征表
-3.5 feature-table_10142.tsv：在3.3基础上，去除了ASV数小于10000的样品，并将样本重采样至同一测序深度的特征表（几乎所有分析都是基于这张表格）
-3.6 taxonomy.tsv：ASV的分类表
+3.1 12-count：群落组成表，包括各个分类水平的，既有百分比形式的（sum_taxa_resample_percentage）也有ASV数形式的（sum_taxa_resample_asv_number）
+3.1.1 FAPROTAX_1.2.12：群落功能预测结果，也包含每种功能所对应的ASV的分表
+3.2 dna-sequences.fasta：ASV的序列文件
+3.3 feature-table.biom.no.cp.tsv：经合并预处理后的原始特征表
+3.4 feature-table_10142.tsv：在3.3基础上，去除了ASV数小于10000的样品，并将样本重采样至同一测序深度的特征表（几乎所有分析都是基于这张表格）
+3.5 taxonomy.tsv：ASV的分类表
