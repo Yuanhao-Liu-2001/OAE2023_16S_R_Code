@@ -1,0 +1,16 @@
+sample_id	Group	methylotrophy	cellulolysis	aerobic_chemoheterotrophy	hydrocarbon_degradation	nitrate_reduction	intracellular_parasites	photoautotrophy	chemoheterotrophy
+19G	Wet_Background	15	8	149	9	9	14	5818	751
+23G	Wet_Background	23	16	785	18	8	21	1258	2312
+27G	Wet_Background	95	5	311	75	2	32	1156	1485
+1G	Wet_Background	16	1	469	41	7	29	673	1711
+5G	Wet_Background	10	2	419	25	3	30	4058	1227
+10G	Wet_Background	37	3	382	32	8	15	1192	1611
+13G	Wet_Background	44	3	541	27	10	24	1399	1735
+17G	Wet_Background	53	10	364	36	9	25	1557	1393
+21G	Wet_Background	16	4	444	13	4	12	3269	2002
+25G	Wet_Background	110	1	287	25	3	7	2001	1418
+30G	Wet_Background	52	9	323	12	5	20	1669	1313
+B1	Dry_Background	166	6	931	42	187	3	96	1813
+B3	Dry_Background	71	94	5660	14	2442	0	18	8092
+B5	Dry_Background	330	3	572	129	208	8	41	2187
+B8	Dry_Background	274	2	1032	193	287	12	22	2220
